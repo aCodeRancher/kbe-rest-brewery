@@ -101,7 +101,7 @@
                     <verbose>true</verbose>
                     <images>
                         <image>
-                            <name>springframeworkguru/${project.artifactId}</name>
+                            <name>helenma33/${project.artifactId}</name>
                             <build>
                                 <assembly>
                                     <descriptorRef>artifact</descriptorRef>
